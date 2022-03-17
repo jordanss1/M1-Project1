@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Index</title>
+	<link href="styles.css" rel="stylesheet">
+	<meta name="viewport" content="width=device-width initial-scale=1.0">
+	<link href="https://fonts.googleapis.com/css2?family=Josefin+Slab:wght@700&family=Lato:wght@100&display=swap" rel="stylesheet">
+  </head>
+<body>
+  <header>
+    <h1>Insert Your Logo Here</h1>
+	<div class="nav">
+      <nav>
+	    <a href="#">Home</a>
+	    <a href="#">About</a>
+	    <a href="#">Our Services</a>
+	    <a href="#">Our Team</a>
+	    <a href="#">Contact</a>
+	  </nav>
+	</div>
+  </header>
+  <main>
+    <section class="content1">
+	  <div class="content1in1">
+         <p>Lorem ipsum <br>r sit amet, consectetur<br>piscing elit, sed do eiusmod <br>or incididunt.</p>
+	  </div>
+	     <img src="images/businesspeople.jpg" alt="business people in line">
+	</section>
+	<section class="content2">
+      <div class="content1in2">	  
+	     <h1>I am a title</h1>
+		  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lectus quam id leo in. Scelerisque varius morbi enim nunc faucibus. Congue eu consequat ac felis donec et odio pellentesque diam. Nibh sit amet commodo nulla facilisi. Vel orci porta non pulvinar neque laoreet suspendisse interdum.</p>
+	  </div>
+	  <div class="content2in2">
+	     <h1>Testimonials</h1>
+		 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lectus quam id leo in. Scelerisque varius morbi enim nunc faucibus.<br><span class="quote">- Quote</span></p>
+	  </div>
+	</section>
+	 
+	<h1 id="h1choose">Why choose us?</h1>
+	<section class="content3">
+	   <div class="content1in3">
+		  <img src="images/stickfriends.jpg" alt="stickmen who are friends">
+		  <h1>Our Team</h1>
+		  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+		  <button type="button">Read more</button>
+	  </div>
+	  <div class="content2in3">
+		  <img src="images/bell.jpg" alt="hand about to hit bell">
+		  <h1>Our Services</h1>
+		  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+		  <button type="button">Read more</button>
+	  </div>
+	  <div class="content3in3">
+		  <img src="images/thumbsup.jpg" alt="multiple thumbs up">
+		  <h1>References</h1>
+		  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+		  <button type="button">Read more</button>
+	  </div>
+	  <div class="content4in3">
+		  <img src="images/news.jpg" alt="front page of newspaper">
+		  <h1>Press Release</h1>
+		  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+		  <button type="button">Read more</button>
+	  </div>
+    </section>
+  </main>
+</body>
+</html>
